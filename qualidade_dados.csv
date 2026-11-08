@@ -1,0 +1,14 @@
+etapa,linhas_afetadas,detalhe
+Base original,6180,9 colunas
+Duplicatas exatas removidas,180,mesma avaliação enviada 2x
+IDs repetidos removidos,0,mantida a primeira ocorrência
+Categoria padronizada,4317,24 grafias -> 7 categorias
+Cidade padronizado(a),494,12 valores distintos -> 6
+Restaurante padronizado(a),300,114 valores distintos -> 57
+Datas convertidas,6000,3 formatos; 618 sem horário (dd/mm/aa)
+Notas fora da escala 1–5 anuladas,25,"ex.: 0, 6, 10"
+Valores com 'R$' e vírgula convertidos,892,texto -> número
+Tempos de entrega implausíveis anulados,38,"fora de 5–180 min (ex.: -5, 0, 999)"
+Comentários sem conteúdo anulados,75,"'', '.', '-', 'ok'"
+Colunas derivadas criadas,6000,"hora, dia_semana, fim_de_semana, mes, sentimento_nota, faixa_entrega, comentario_norm"
+Base final,6000,17 colunas

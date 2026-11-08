@@ -1,0 +1,42 @@
+{
+  "n_avaliacoes": 6000,
+  "nota_media": 3.84,
+  "pct_negativas": 10.9,
+  "pct_com_comentario": 92.3,
+  "nota_ate30": 4.14,
+  "nota_60mais": 2.91,
+  "pct_neg_ate30": 4.6,
+  "pct_neg_60mais": 35.2,
+  "corr_tempo_nota": -0.33,
+  "temas_negativos_pct": {
+    "Atraso": 46.5,
+    "Preço": 27.2,
+    "Comida fria": 20.0,
+    "Sabor (crítica)": 13.9,
+    "Pedido errado": 13.1,
+    "Quantidade": 12.6,
+    "Embalagem": 8.4
+  },
+  "tempo_medio_fds": 46.2,
+  "tempo_medio_semana": 41.2,
+  "tempo_medio_19a21h": 47.9,
+  "tempo_medio_outros_horarios": 39.8,
+  "nota_por_categoria": {
+    "Japonesa": 3.45,
+    "Lanches": 3.5,
+    "Saudável": 3.54,
+    "Doces & Sobremesas": 3.71,
+    "Brasileira": 3.87,
+    "Hambúrguer": 3.95,
+    "Pizza": 4.04
+  },
+  "notas_4_com_ressalva": 624,
+  "pct_notas_4_com_ressalva": 31.0,
+  "top_restaurantes_negativos": {
+    "Point Mesa da Esquina": 50.6,
+    "Ateliê Grão Express": 45.9,
+    "Point Folha da Vila": 40.4,
+    "Ateliê Grão da Esquina": 38.0,
+    "Empório Grão da Esquina": 36.3
+  }
+}

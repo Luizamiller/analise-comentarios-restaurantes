@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+jupyter>=1.0
+# opcional, apenas para src/temas_llm.py
+anthropic>=0.40

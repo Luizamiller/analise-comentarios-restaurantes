@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+reports/comparacao_regras_vs_llm.csv
